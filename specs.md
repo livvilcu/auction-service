@@ -1,4 +1,4 @@
-#Application Specs
+# Application Specs
 
 Proiectul pe care m-am gandit sa il dezvolt (se bazeaza  pe tutorialul din documentatia Cosmos) este o platforma prin care utilizatorii pot cumpara/vinde obiecte.
 Fiecare utilizator al retelei are asociat un obiect, si un pret minim setat de catre detinator. Daca un alt utilizator, sa presupunem utilizatorul 2 va
@@ -15,7 +15,7 @@ Am reusit sa implementez o doar o stare, si anume starea initiala cand obiectele
 Urmatoarea stare ar fi fost MsgBuyObject(obiect, valoare, cumparator) si handler ul corespunzator.
 Apoi ar mai fi fost partea de querier, parte pe care nu am prea intes cum functioneaza sau la ce e necesara.
 
-#Implementare
+# Implementare
 
 Cu ajutorul Cosmos SDK, developer ul ar trebui doar sa defineasca starile struturilor din retea. Starea de inceput, dar si mesajele care vor
 declansa urmatoarele stari, iar Tendermint se va ocupa de propagarea in retea.
