@@ -15,7 +15,7 @@ Am reusit sa implementez o doar o stare, si anume starea initiala cand obiectele
 Urmatoarea stare ar fi fost MsgBuyObject(obiect, valoare, cumparator) si handler ul corespunzator.
 Apoi ar mai fi fost partea de querier, parte pe care nu am prea intes cum functioneaza sau la ce e necesara.
 
-# Implementare
+## Implementare
 
 Cu ajutorul Cosmos SDK, developer ul ar trebui doar sa defineasca starile struturilor din retea. Starea de inceput, dar si mesajele care vor
 declansa urmatoarele stari, iar Tendermint se va ocupa de propagarea in retea.
