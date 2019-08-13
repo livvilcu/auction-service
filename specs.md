@@ -1,3 +1,5 @@
+# Presentation: https://prezi.com/view/Q5GV2R30SSrv4DOLUWn3/ 
+
 # Application Specs
 
 Proiectul pe care m-am gandit sa il dezvolt (se bazeaza  pe tutorialul din documentatia Cosmos) este o platforma prin care utilizatorii pot cumpara/vinde obiecte.
