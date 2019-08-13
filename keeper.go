@@ -1,4 +1,4 @@
-package nameservice
+package auctionservice
 
 import (
 	"github.com/cosmos/cosmos-sdk/codec"
