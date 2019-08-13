@@ -1,2 +1,2 @@
-package nameservice
+package auctionservice
 
